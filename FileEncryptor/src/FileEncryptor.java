@@ -28,8 +28,8 @@ import javax.crypto.spec.SecretKeySpec;
  */
 
 /**
- * @author les
- * @version $Revision: 1.1 $
+ * @author Farhan
+ * @version $Revision: 1.2 $
  */
 public class FileEncryptor {
 
